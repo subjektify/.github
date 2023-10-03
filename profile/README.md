@@ -1,4 +1,7 @@
-# Subjektify: Building the Future of Decentralized Applications
+# Subjektify
+
+> Building the Future of Decentralized Applications
+
 Subjektify is the framework designed for the modern developer, making decentralized application development straightforward and effective.
 
 ## Why Subjektify?
