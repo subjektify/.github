@@ -14,4 +14,4 @@ Ready to build your first decentralized application? Head over to our [Composer 
 If you're interested in contributing to the next chapter of decentralized applications, we welcome your input. See our [Contributing Guidelines](https://github.com/subjektify/contributing) for details.
 
 ## Explore Further
-For more in-depth information, tutorials, and best practices, visit our comprehensive [Documentation](https://subjektify.dev/docs).
+For more in-depth information, tutorials, and best practices, visit our comprehensive [Documentation](https://subjektify.dev/).
